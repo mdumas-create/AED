@@ -3,9 +3,9 @@
 Este es el primer trabajo práctico de la materia AED, consistente en la configuración del entorno y la creación de un programa "Hello, World!" en C++.
 
 ## Compilador Seleccionado
-- **Compilador**: `g++` (MinGW-W64)
-- **Versión del Compilador**: `13.2.0` (o superior)
-- **Versión de C++**: `C++20` (estándar recomendado)
+- **Compilador**: `g++` (MSYS2 UCRT64)
+- **Versión del Compilador**: `15.2.0`
+- **Versión de C++**: `C++20` (estándar utilizado)
 
 ### Comandos de Verificación
 Para verificar la versión del compilador:
