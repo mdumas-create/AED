@@ -11,3 +11,4 @@ Repositorio público para la materia AED de la UTN FRBA.
 
 ## Trabajos Prácticos
 - [00-CppHelloWorld](00-CppHelloWorld/)
+- [DD-EjemploTipos](DD-EjemploTipos/)
