@@ -1,11 +1,15 @@
 # 00-CppHelloWorld
 
-Este es el primer trabajo práctico de la materia AED, consistente en la configuración del entorno y la creación de un programa "Hello, World!" en C++.
+Este es el primer trabajo práctico de la materia AED, consistente en la configuración del entorno y la creación de un programa "Hola mundo" en C++.
+
+## Identificación de Usuario Git
+- **Usuario**: `mdumas-create`
+- **Email**: `mdumas@frba.edu.ar`
 
 ## Compilador Seleccionado
 - **Compilador**: `g++` (MSYS2 UCRT64)
 - **Versión del Compilador**: `15.2.0`
-- **Versión de C++**: `C++20` (estándar utilizado)
+- **Versión de C++**: `C++23` (estándar utilizado)
 
 ### Comandos de Verificación
 Para verificar la versión del compilador:
@@ -21,7 +25,7 @@ g++ -v --help | grep -i "std="
 ## Proceso de Compilación y Ejecución
 1. **Compilación**:
    ```bash
-   g++ hello.cpp -o hello.exe -std=c++20
+   g++ hello.cpp -o hello.exe -std=c++23
    ```
 2. **Ejecución**:
    ```bash
